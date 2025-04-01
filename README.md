@@ -6,7 +6,7 @@ A simple practice project showcasing a download button with a progress bar, styl
 ## Live Demo
 
 Check out the live demo of the project here:  
-[**Live Preview**](https://itsmepraksh.github.io/Random-Shade-Palette-Generator/)
+[**Live Preview**](https://itsmepraksh.github.io/ProgressBarDemo/)
 
 ## How to Use
 
