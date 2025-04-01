@@ -17,13 +17,13 @@ Check out the live demo of the project here:
 
 To install and run the project locally, follow these steps:
 1. Clone the repository:  
-   `git clone  https://github.com/itsmepraksh/Random-Shade-Palette-Generator`
+   `git clone   https://github.com/itsmepraksh/ProgressBarDemo`
 2. Navigate to the project folder:  
-   `cd random-tone-generator`
+   `cd ProgressBarDemo`
 3. Open the `index.html` file in your browser.
 
 ## Give it a Star 🌟
 
 If you find this project helpful, please consider starring it on GitHub!
 
-[**Random Tone Generator on GitHub**](https://github.com/itsmepraksh/Random-Shade-Palette-Generator?)
+[**Progress Bar Demo on GitHub**](https://github.com/itsmepraksh/ProgressBarDemo)
